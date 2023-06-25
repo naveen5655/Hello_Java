@@ -8,6 +8,7 @@ public class myMainCalc {
 		System.out.println("sub="+c.sub(2, 5));
 		System.out.println("mul="+c.mul(2, 5));
 		System.out.println("div="+c.div(10, 5));
+		c.greeting();
 	}
 
 }

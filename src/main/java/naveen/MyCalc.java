@@ -18,5 +18,9 @@ public class MyCalc {
 	{
 		return (a/b);
 	}
+	void greeting()
+	{
+		System.out.println("Hi naveen");
+	}
 
 }
