@@ -20,7 +20,7 @@ public class MyCalc {
 	}
 	void greeting()
 	{
-		System.out.println("Hello naveen, how are you");
+		System.out.println("Hello naveen, how are you!");
 	}
 
 }
